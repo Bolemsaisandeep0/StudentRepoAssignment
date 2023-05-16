@@ -1,0 +1,12 @@
+D:\Repos\eShop\StudentRepo.Data\bin\Debug\net6.0\StudentRepo.Data.deps.json
+D:\Repos\eShop\StudentRepo.Data\bin\Debug\net6.0\StudentRepo.Data.dll
+D:\Repos\eShop\StudentRepo.Data\bin\Debug\net6.0\StudentRepo.Data.pdb
+D:\Repos\eShop\StudentRepo.Data\obj\Debug\net6.0\StudentRepo.Data.vbproj.AssemblyReference.cache
+D:\Repos\eShop\StudentRepo.Data\obj\Debug\net6.0\StudentRepo.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\eShop\StudentRepo.Data\obj\Debug\net6.0\StudentRepo.Data.AssemblyInfoInputs.cache
+D:\Repos\eShop\StudentRepo.Data\obj\Debug\net6.0\StudentRepo.Data.AssemblyInfo.vb
+D:\Repos\eShop\StudentRepo.Data\obj\Debug\net6.0\StudentRepo.Data.vbproj.CoreCompileInputs.cache
+D:\Repos\eShop\StudentRepo.Data\obj\Debug\net6.0\StudentRepo.Data.dll
+D:\Repos\eShop\StudentRepo.Data\obj\Debug\net6.0\refint\StudentRepo.Data.dll
+D:\Repos\eShop\StudentRepo.Data\obj\Debug\net6.0\StudentRepo.Data.pdb
+D:\Repos\eShop\StudentRepo.Data\obj\Debug\net6.0\ref\StudentRepo.Data.dll
